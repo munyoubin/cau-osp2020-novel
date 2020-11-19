@@ -123,7 +123,7 @@
 그때, 제리를 납치한 그 고양이가 자신의 우두머리에게 얘기하듯이 말을 꺼냈다.
 
 ```
-참 맛있게 생기지 않았습니까? ? 
+참 맛있게 생기지 않았습니까? 형님? 
 ```
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74230759/99184494-98f18c80-2786-11eb-8366-c676f698aa01.jpg" width="50%" height="50%">
