@@ -2562,7 +2562,7 @@
 
 <!-- 미야미야의 원래 모습 -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74265263/100368971-9bd26400-3047-11eb-92ed-bc6387531eba.jpg" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/74265263/100370690-fcfb3700-3049-11eb-988c-8e5175e882e5.jpg" width="50%" height="50%">
 
 
 미야미야의 원래 모습은, 미야처럼 흰털과 푸른 눈을 가지고, 멋진 수염을 기른 중년의 고양이었다.
